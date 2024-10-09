@@ -6,5 +6,20 @@
 
 It helps you calculate your final bill based on the tip you choose to give.
 
-Check out the functions in the images.
+Check out the functions in the images:
 
+## App Icon:
+
+<img title="a title" src="../img/start.png" width="200">
+
+## First view, where input should be placed:
+
+<img title="a title" src="../img/billInput.png" width="200">
+
+## Tip calculated!
+
+<img title="a title" src="../img/result.png" width="200">
+
+**Note: Bill input only receives numbers if a letter is passed an alert is shown**
+
+<img title="a title" src="../img/alert.png" width="200">
